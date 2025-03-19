@@ -2,6 +2,7 @@
 ## YKB's plan
 - [ ] [Hector ROS环境](https://github.com/DRCL-USC/Hector_Simulation/tree/ROS_Simulation)
 	- [ ] 改步频是否能保持稳定
+- [ ] [Hector mujoco环境](https://github.com/humarobot/Hector_Simulation)
 - [ ] [宇树 ROS环境](https://github.com/unitreerobotics)
 - [ ] [宇树RL环境](https://github.com/unitreerobotics/unitree_rl_gym/blob/main/README_zh.md)
 - [ ] hector的Casadi单步计算耗时多少测一下，大致了解casadi的python语法？
